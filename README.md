@@ -2,9 +2,10 @@
 <html>
 <body>
 
-<h1 style="color:blue;">A Blue Heading</h1>
+<hr />
+<img src="./banner.png" alt="Akash Singh">
+<hr />
 
-<p style="color:red;">A red paragraph.</p>
 
 </body>
 </html>
